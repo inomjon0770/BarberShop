@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529584044215",
+    "project_id": "barber-shop-ff31a",
+    "storage_bucket": "barber-shop-ff31a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529584044215:android:44cc20beeacb10aaf5b532",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Kd5rUehAdLUeTCKnGALrEuBgp4RRFzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
